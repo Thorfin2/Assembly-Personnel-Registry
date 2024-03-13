@@ -1,5 +1,6 @@
 section .data
 
+; so if understandf well everything works fairly well 
 ; ---------------------------------------------------------------------------------------
 ; Programme de Gestion de Personnel 
 ; ----------------------------------------------------------------------------------------
